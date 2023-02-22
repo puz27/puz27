@@ -1,5 +1,7 @@
 <div id="header" align="center">
-	<h2>Hi there, I am Nikolay!</h2>
+
+<h3>Hi there, I am Nikolay!</h3>
+
 </div>
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/nikolay-avramenko-735896255/">
@@ -13,13 +15,14 @@
 	</a>
 </div>
 
+---
 
 ### About me
 - 🐍 I am currently learning Python
 - 🦀 I write a little on Powershell
 - 🏠 I speak English, Russian
 
-
+---
 ### My statistic
 <div id="stat" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puz27&theme=default">
