@@ -1,7 +1,6 @@
 <div id="header" align="center">
-	<h1>Hi there, I am Nikolay!</h1>
+	<h2>Hi there, I am Nikolay!</h2>
 </div>
-
 <div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/nikolay-avramenko-735896255/">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -13,7 +12,6 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-
 ### About me
 - 🐍 I’m currently learning Python
 - 🏠 I speak English, Russian
