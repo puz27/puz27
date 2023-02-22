@@ -18,3 +18,9 @@
 - 🐍 I am currently learning Python
 - 🦀 I write a little on Powershell
 - 🏠 I speak English, Russian
+
+
+### My statistic
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puz27&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puz27&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=puz27&theme=default) 
