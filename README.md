@@ -15,5 +15,5 @@
 </div>
 
 ### About me
-- 🐍 I’m currently learning Python**
+- 🐍 I’m currently learning Python
 - 🏠 I speak English, Russian
