@@ -13,6 +13,8 @@
 	</a>
 </div>
 
+
 ### About me
-- 🐍 I’m currently learning Python
+- 🐍 I am currently learning Python
+- 🦀 I write a little on Powershell
 - 🏠 I speak English, Russian
