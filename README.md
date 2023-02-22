@@ -21,6 +21,8 @@
 
 
 ### My statistic
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puz27&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puz27&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=puz27&theme=default) 
+<div id="stat" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puz27&theme=default">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puz27&theme=default">	
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=puz27&theme=default">
+</div>
